@@ -1,0 +1,13 @@
+# Add files or folders to ignore 
+# Ignore Unity-specific files 
+Library/ 
+Temp/ 
+Obj/ 
+.vs/ 
+.vscode/ 
+.idea/ 
+Build/ 
+Builds/ 
+Logs/ 
+# User-specific files 
+*.userprefs
