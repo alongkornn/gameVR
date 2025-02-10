@@ -6,9 +6,44 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Login Scene.unity
+    guid: fb62fa54319bf1040b0c96a5ed5a793f
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 8adbb869f5de29942977c34139ac95b8
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 66c4635c86bbbc34599f04923f97d802
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: a3cb53e484f0b284690c815a999662f1
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 9bb8a8c0734705b45b75307b5df1a1b0
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 81cff25e4ac69eb41b8ea7ca50e5e04d
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: f8aff487948bbaa4caf3689ac2fcb0ec
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: 95aad063244d0764689a655442f483c9
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 331b5191e3238d14383091e4a38d516d
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: 3e08369d1cf13dd43bcdcb6612bc2b7a
+  - enabled: 1
+    path: Assets/Scenes/Level10.unity
+    guid: 64b26d9a43d67ef4db86e37107012b24
   m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 591f0e8a904e5c5439950c3eb2b4b36f,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 515a699439d5e8c488f1f83d1c9f8313,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a2f2feef60b94cf40bfbf2ce4281e9a9,
